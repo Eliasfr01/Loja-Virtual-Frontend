@@ -1,8 +1,8 @@
-💻 Loja Virtual Asa Branca (Frontend)
+💻 Loja Virtual (Frontend)
 
 ## ✨ Visão Geral
 
-Este repositório contém o código-fonte do frontend da Loja Virtual Asa Branca, a plataforma oficial de e-commerce da Startup Asa Branca do Campus UFC de Quixadá. Ele é responsável pela interface do usuário e pela experiência de compra do cliente, interagindo com uma API de backend externa.
+Este repositório contém o código-fonte do frontend de uma Loja Virtual, uma plataforma oficial de e-commerce voltada para prática e estudo. Ele é responsável pela interface do usuário e pela experiência de compra do cliente, interagindo com uma API de backend externa.
 
 ## 🚀 Tecnologias e Funcionalidades
 
@@ -42,10 +42,10 @@ Você precisa ter o **Node.js** (que inclui o npm ou yarn) instalado na sua máq
     ```
 4.  **Inicie a Aplicação:**
     `bash
-    npm start
-    `
+npm start
+`
     A aplicação será aberta automaticamente no seu navegador, geralmente em `http://localhost:3000`.
 
 ## 📄 Licensa
 
-Este projeto é **privado** e de uso interno da Startup Asa Branca.
+Este projeto é **público** para caso tenham interesse em fazer fork's e incrementarem suas própriar versões.
