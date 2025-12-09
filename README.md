@@ -48,4 +48,4 @@ npm start
 
 ## 📄 Licensa
 
-Este projeto é **público** para caso tenham interesse em fazer fork's e incrementarem suas própriar versões.
+Este projeto é **público** para caso tenham interesse em fazer fork's e incrementarem suas próprias versões.
